@@ -39,9 +39,6 @@ chatra-suraksha/
 
 Setup and Installation
 
-Clone the Repository:
-git clone https://github.com/your-username/chatra-suraksha.git
-cd chatra-suraksha
 
 
 Install Dependencies:
